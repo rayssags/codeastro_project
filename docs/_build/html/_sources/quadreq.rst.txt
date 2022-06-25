@@ -1,0 +1,9 @@
+.. _quadreq:
+
+QuadEq Functions
+=====================
+
+Functions to solve quadratic equations
+
+.. automodule:: quadreq
+   :members:
